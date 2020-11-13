@@ -1,0 +1,117 @@
+C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/user_app.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\tanjidur.rumman\Desktop\tt\reconfig\lab_5\part_1\part1_code\accelerator_1.0\src\user_app.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package config_pkg
+-- Loading package user_pkg
+-- Compiling entity user_app
+-- Compiling architecture default of user_app
+-- Loading entity memory_map
+-- Loading package MATH_REAL
+-- Loading entity source
+-- Loading entity delay
+-- Loading entity dest
+
+} {} {}} C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/delay.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/delay.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity delay
+-- Compiling architecture FF of delay
+
+} {} {}} C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/config_pkg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/config_pkg.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package config_pkg
+
+} {} {}} C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/user_pkg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/user_pkg.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package config_pkg
+-- Compiling package user_pkg
+
+} {} {}} C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/user_app_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/user_app_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package config_pkg
+-- Loading package user_pkg
+-- Compiling entity user_app_tb
+-- Compiling architecture behavior of user_app_tb
+-- Loading entity user_app
+
+} {} {}} C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/dest.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/dest.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity dest
+-- Compiling architecture BHV of dest
+
+} {} {}} C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/source.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/source.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity source
+-- Compiling architecture BHV of source
+
+} {} {}} C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/wrapper.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/wrapper.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package config_pkg
+-- Compiling entity wrapper
+-- Compiling architecture default of wrapper
+-- Loading package user_pkg
+-- Loading entity user_app
+
+} {} {}} C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/memory_map.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/memory_map.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package config_pkg
+-- Loading package user_pkg
+-- Compiling entity memory_map
+-- Compiling architecture BHV of memory_map
+** Warning: C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/memory_map.vhd(58): (vcom-1937) Choice in CASE statement alternative must be locally static.
+
+** Warning: C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/memory_map.vhd(60): (vcom-1937) Choice in CASE statement alternative must be locally static.
+
+** Warning: C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/memory_map.vhd(72): (vcom-1937) Choice in CASE statement alternative must be locally static.
+
+** Warning: C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/memory_map.vhd(74): (vcom-1937) Choice in CASE statement alternative must be locally static.
+
+** Warning: C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/memory_map.vhd(76): (vcom-1937) Choice in CASE statement alternative must be locally static.
+
+** Warning: C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/memory_map.vhd(78): (vcom-1937) Choice in CASE statement alternative must be locally static.
+
+
+} {} {}} C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/dual_flop.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/dual_flop.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dual
+-- Compiling architecture BHV of dual
+
+} {} {}}

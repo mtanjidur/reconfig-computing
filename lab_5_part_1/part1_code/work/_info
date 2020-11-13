@@ -1,0 +1,444 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_working
+Pconfig_pkg
+Z0 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 w1605207512
+Z4 dC:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code
+8C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/config_pkg.vhd
+FC:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/config_pkg.vhd
+l0
+L8
+V5la50Wmc>0JB_Ln@O;7Ml3
+!s100 d5nTUkLC:?]5J9Iecm?oB1
+Z5 OP;C;10.4a;61
+32
+Z6 !s110 1605255539
+!i10b 1
+Z7 !s108 1605255539.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/config_pkg.vhd|
+!s107 C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/config_pkg.vhd|
+!i113 1
+Z8 o-work work -2002 -explicit -O0
+Z9 tExplicit 1
+Edelay
+R3
+R1
+R2
+R4
+Z10 8C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/delay.vhd
+Z11 FC:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/delay.vhd
+l0
+L28
+Vmk@[9BkEUf3=:Kz[cEUe;2
+!s100 4KAEFB4`f[215j6`D1PAS3
+R5
+32
+R6
+!i10b 1
+R7
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/delay.vhd|
+Z13 !s107 C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/delay.vhd|
+!i113 1
+R8
+R9
+Aff
+R1
+R2
+Z14 DEx4 work 5 delay 0 22 mk@[9BkEUf3=:Kz[cEUe;2
+l45
+L40
+Vz2]4U217bNY3ZiTi^YX:J3
+!s100 Q_0DW^9;ASV>`GBKS78U82
+R5
+32
+R6
+!i10b 1
+R7
+R12
+R13
+!i113 1
+R8
+R9
+Edest
+R3
+Z15 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+R0
+R1
+R2
+R4
+Z16 8C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/dest.vhd
+Z17 FC:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/dest.vhd
+l0
+L6
+V<S4G<CJ@V;z:d0NKTB93B1
+!s100 e2`L5W`QNIEGaBEDgllPX2
+R5
+32
+Z18 !s110 1605255540
+!i10b 1
+R7
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/dest.vhd|
+Z20 !s107 C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/dest.vhd|
+!i113 1
+R8
+R9
+Abhv
+R15
+R0
+R1
+R2
+Z21 DEx4 work 4 dest 0 22 <S4G<CJ@V;z:d0NKTB93B1
+l21
+L15
+VBUzXcE=R=IA5BUABH<:e_2
+!s100 g7j;V3TM]oOK0;9@N7z4>2
+R5
+32
+R18
+!i10b 1
+R7
+R19
+R20
+!i113 1
+R8
+R9
+Edual
+Z22 w1605254162
+R1
+R2
+R4
+Z23 8C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/dual_flop.vhd
+Z24 FC:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/dual_flop.vhd
+l0
+L7
+VlB1LVagoa9g25T]c?kZag2
+!s100 E630F]zWNSBW9nNlPTPI83
+R5
+32
+R18
+!i10b 1
+Z25 !s108 1605255540.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/dual_flop.vhd|
+Z27 !s107 C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/dual_flop.vhd|
+!i113 1
+R8
+R9
+Abhv
+R1
+R2
+DEx4 work 4 dual 0 22 lB1LVagoa9g25T]c?kZag2
+l21
+L18
+V5Cl3O>3`hkC9k2hLcFWW81
+!s100 _XH341lRZ=C;IAV<gaVID0
+R5
+32
+R18
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R8
+R9
+Edual_flop
+Z28 w1605252136
+R1
+R2
+R4
+R23
+R24
+l0
+L7
+Ve0f3OIXbXd?J:]VB1[m2Y3
+!s100 hFdXQeH:N5]@TC7gG5MXA0
+R5
+32
+Z29 !s110 1605252991
+!i10b 1
+Z30 !s108 1605252991.000000
+R26
+R27
+!i113 1
+R8
+R9
+Abhv
+R1
+R2
+DEx4 work 9 dual_flop 0 22 e0f3OIXbXd?J:]VB1[m2Y3
+l21
+L18
+V7HN?7SZLkLh>^1dA2iR7^1
+!s100 MIk9J^zW5X]JZRz_5@7TX1
+R5
+32
+R29
+!i10b 1
+R30
+R26
+R27
+!i113 1
+R8
+R9
+Ememory_map
+R3
+Z31 DPx4 work 8 user_pkg 0 22 5dEALFzoI8GBN>=SeEX1m1
+Z32 DPx4 work 10 config_pkg 0 22 5la50Wmc>0JB_Ln@O;7Ml3
+R0
+R1
+R2
+R4
+Z33 8C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/memory_map.vhd
+Z34 FC:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/memory_map.vhd
+l0
+L18
+V9LC=0SUei^3S7n][oDQ6h3
+!s100 Q>gfER00_G4S8ZQk]bE=53
+R5
+32
+R18
+!i10b 1
+R25
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/memory_map.vhd|
+Z36 !s107 C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/memory_map.vhd|
+!i113 1
+R8
+R9
+Abhv
+R31
+R32
+R0
+R1
+R2
+Z37 DEx4 work 10 memory_map 0 22 9LC=0SUei^3S7n][oDQ6h3
+l42
+L37
+VoD8?=aHiA0[a0zmWg08TO3
+!s100 >XX0laVDEjQ<Md6^j]^b81
+R5
+32
+R18
+!i10b 1
+R25
+R35
+R36
+!i113 1
+R8
+R9
+Esource
+R3
+R15
+R0
+R1
+R2
+R4
+Z38 8C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/source.vhd
+Z39 FC:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/source.vhd
+l0
+L6
+Vznl]ocBF0AJf_`a1iZ6oV3
+!s100 Ah?[h:][5ccbRZ0BhVB7@3
+R5
+32
+R18
+!i10b 1
+R25
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/source.vhd|
+Z41 !s107 C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/source.vhd|
+!i113 1
+R8
+R9
+Abhv
+R15
+R0
+R1
+R2
+Z42 DEx4 work 6 source 0 22 znl]ocBF0AJf_`a1iZ6oV3
+l31
+L19
+Vma_CjW>Hgd6mQn92;YdAm3
+!s100 C:hhFnKQB0ebF>XNd<7A=2
+R5
+32
+R18
+!i10b 1
+R25
+R40
+R41
+!i113 1
+R8
+R9
+Euser_app
+Z43 w1605255264
+R31
+R0
+R32
+R1
+R2
+R4
+Z44 8C:\Users\tanjidur.rumman\Desktop\tt\reconfig\lab_5\part_1\part1_code\accelerator_1.0\src\user_app.vhd
+Z45 FC:\Users\tanjidur.rumman\Desktop\tt\reconfig\lab_5\part_1\part1_code\accelerator_1.0\src\user_app.vhd
+l0
+L10
+V71OQUc6jJ8V8]9ZfN>KP^3
+!s100 HV<T7i?9haY?<DGaJ5D@^0
+R5
+32
+R18
+!i10b 1
+R25
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\tanjidur.rumman\Desktop\tt\reconfig\lab_5\part_1\part1_code\accelerator_1.0\src\user_app.vhd|
+Z47 !s107 C:\Users\tanjidur.rumman\Desktop\tt\reconfig\lab_5\part_1\part1_code\accelerator_1.0\src\user_app.vhd|
+!i113 1
+R8
+R9
+Adefault
+R21
+R14
+R15
+R42
+R37
+R31
+R0
+R32
+R1
+R2
+Z48 DEx4 work 8 user_app 0 22 71OQUc6jJ8V8]9ZfN>KP^3
+l35
+L25
+VBe]Pj2`>3lbg@j8J1_@A93
+!s100 [kLb3;z6dUIURXA`eKen=0
+R5
+32
+R18
+!i10b 1
+R25
+R46
+R47
+!i113 1
+R8
+R9
+Euser_app_tb
+Z49 w1605244069
+R31
+R32
+R0
+R1
+R2
+R4
+Z50 8C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/user_app_tb.vhd
+Z51 FC:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/user_app_tb.vhd
+l0
+L15
+V<oE4nG5I1>DlYeYK2lH9^2
+!s100 eAzE9>>;B?ZDP86[5J?=42
+R5
+32
+R18
+!i10b 1
+R25
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/user_app_tb.vhd|
+Z53 !s107 C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/user_app_tb.vhd|
+!i113 1
+R8
+R9
+Abehavior
+R48
+R31
+R32
+R0
+R1
+R2
+DEx4 work 11 user_app_tb 0 22 <oE4nG5I1>DlYeYK2lH9^2
+l42
+L18
+Vz?ZlK8GZ4YidiiI_;6PRK2
+!s100 iA;H?f90QN]@Bf9UMIo7`2
+R5
+32
+R18
+!i10b 1
+R25
+R52
+R53
+!i113 1
+R8
+R9
+Puser_pkg
+R32
+R0
+R1
+R2
+R3
+R4
+8C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/user_pkg.vhd
+FC:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/user_pkg.vhd
+l0
+L10
+V5dEALFzoI8GBN>=SeEX1m1
+!s100 ED707l^O0>X3eP479O59>1
+R5
+32
+!s110 1605255541
+!i10b 1
+!s108 1605255541.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/user_pkg.vhd|
+!s107 C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/user_pkg.vhd|
+!i113 1
+R8
+R9
+Ewrapper
+R3
+R32
+R0
+R1
+R2
+R4
+Z54 8C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/wrapper.vhd
+Z55 FC:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/wrapper.vhd
+l0
+L11
+V9h`hASIP7>c:iO>h?;75c3
+!s100 6MENzFV:9ICPL=CfUocH`2
+R5
+32
+R6
+!i10b 1
+R7
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/wrapper.vhd|
+Z57 !s107 C:/Users/tanjidur.rumman/Desktop/tt/reconfig/lab_5/part_1/part1_code/accelerator_1.0/src/wrapper.vhd|
+!i113 1
+R8
+R9
+Adefault
+R31
+R48
+R32
+R0
+R1
+R2
+DEx4 work 7 wrapper 0 22 9h`hASIP7>c:iO>h?;75c3
+l27
+L25
+VOi09PD]AD`IRK0h8=:dHE2
+!s100 ]gnRVQ[XOZ8CQX?H]I]]81
+R5
+32
+R6
+!i10b 1
+R7
+R56
+R57
+!i113 1
+R8
+R9
